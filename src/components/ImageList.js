@@ -7,7 +7,7 @@ const ImageList = (props) => {
   });
 
   return (
-    <div>{images}</div>
+    <div>{images} this is still working</div>
 
   )
 };
